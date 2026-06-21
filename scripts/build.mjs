@@ -30,12 +30,15 @@ const pages = [
   { slug: "bff-auth-trust-boundary", label: "BFF Auth Trust Boundary", group: "Platform Stack" },
   { slug: "event-driven-backbone", label: "Event-Driven Backbone", group: "Platform Stack" },
   { slug: "payment-journey", label: "Payment Journey", group: "Platform Stack" },
+  { slug: "onboard-new-insurer", label: "How do I onboard a new insurer?", group: "How-To", description: "Register an insurer, run live contract tests against the sandbox, and approve." },
+  { slug: "enable-a-product", label: "How do I enable a product?", group: "How-To", description: "Add a product to an insurer's catalogue and publish it to a tenant." },
+  { slug: "embedded-discovery-payments-journey", label: "Embedded Discovery → Payments Journey", group: "How-To", description: "The RM-native discovery, quote, proposal, consent, payment and issuance flow." },
   { slug: "setup", label: "Setup", group: "Runbook" },
   { slug: "usage", label: "Usage", group: "Runbook" },
   { slug: "architecture", label: "Architecture", group: "Runbook" },
 ];
 
-const groupOrder = ["Architecture", "Platform Stack", "Runbook"];
+const groupOrder = ["How-To", "Architecture", "Platform Stack", "Runbook"];
 
 const username = process.env.DOCS_AUTH_USERNAME || "fraiday-ai";
 const password = process.env.DOCS_AUTH_PASSWORD || "fraiday2026";

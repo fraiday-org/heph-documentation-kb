@@ -10,6 +10,9 @@ const outDir = path.join(root, "_site");
 const requiredPages = [
   "index.html",
   "home.html",
+  "onboard-new-insurer.html",
+  "enable-a-product.html",
+  "embedded-discovery-payments-journey.html",
   "executive-overview.html",
   "product-scope.html",
   "compliance-plane.html",
