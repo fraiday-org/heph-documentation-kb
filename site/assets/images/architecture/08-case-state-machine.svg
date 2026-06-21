@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" font-family="Lato, Helvetica, Arial, sans-serif">
+<rect width="1200" height="820" fill="#FFFFFF"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 z" fill="#33475B"/></marker><marker id="arrowS" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M9,0 L0,3 L9,6 z" fill="#33475B"/></marker></defs>
+<path d="M 240.0,186.0 L 240.0,205.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 240.0,281.0 L 240.0,300.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 240.0,376.0 L 240.0,395.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 240.0,471.0 L 240.0,490.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 240.0,566.0 L 240.0,585.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 240.0,661.0 L 240.0,680.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 274.5,680.0 L 550.5,376.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="388.3" y="518.0" width="48.4" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="412.5" y="531.0" font-size="11.5" fill="#33475B" text-anchor="middle">Mode A</text>
+<path d="M 288.6,680.0 L 536.4,486.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="388.3" y="573.0" width="48.4" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="412.5" y="586.0" font-size="11.5" fill="#33475B" text-anchor="middle">Mode B</text>
+<path d="M 700.0,359.8 L 760.0,371.2" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 700.0,426.2 L 760.0,414.8" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 875.0,431.0 L 875.0,475.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="844.4" y="443.0" width="61.2" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="875.0" y="456.0" font-size="11.5" fill="#33475B" text-anchor="middle">all COIs</text>
+<path d="M 381.0,680.0 L 470.0,656.0" fill="none" stroke="#B0413E" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="375.7" y="658.0" width="99.6" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="425.5" y="671.0" font-size="11.5" fill="#B0413E" text-anchor="middle">decline/expire</text>
+<path d="M 875.0,590.0 L 875.0,431.0" fill="none" stroke="#B0413E" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="854.0" y="500.5" width="42.0" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="875.0" y="513.5" font-size="11.5" fill="#B0413E" text-anchor="middle">retry</text>
+<rect x="90" y="110" width="300" height="76" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="240.0" y="146.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Initiated</text>
+<text x="240.0" y="164.5" font-size="12" fill="#5A6675" text-anchor="middle">LAN / mobile entered</text>
+<rect x="90" y="205" width="300" height="76" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="240.0" y="241.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Loan Data Fetched</text>
+<text x="240.0" y="259.5" font-size="12" fill="#5A6675" text-anchor="middle">LOS success</text>
+<rect x="90" y="300" width="300" height="76" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="240.0" y="336.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Suitability Selected</text>
+<text x="240.0" y="354.5" font-size="12" fill="#5A6675" text-anchor="middle">lead product chosen</text>
+<rect x="90" y="395" width="300" height="76" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="240.0" y="431.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Quote Generated</text>
+<text x="240.0" y="449.5" font-size="12" fill="#5A6675" text-anchor="middle">cart in progress</text>
+<rect x="90" y="490" width="300" height="76" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="240.0" y="526.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Proposal in Progress</text>
+<text x="240.0" y="544.5" font-size="12" fill="#5A6675" text-anchor="middle">applicant + nominee</text>
+<rect x="90" y="585" width="300" height="76" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="240.0" y="621.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Medical in Progress</text>
+<text x="240.0" y="639.5" font-size="12" fill="#5A6675" text-anchor="middle">per-insurer UW</text>
+<rect x="90" y="680" width="300" height="76" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="240.0" y="716.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Awaiting Consent</text>
+<text x="240.0" y="734.5" font-size="12" fill="#5A6675" text-anchor="middle">per-product OTP</text>
+<rect x="470" y="300" width="230" height="76" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="585.0" y="336.5" font-size="14" font-weight="700" fill="#2E75B6" text-anchor="middle">Awaiting Disbursement</text>
+<text x="585.0" y="353.5" font-size="11" fill="#5A6675" text-anchor="middle">Mode A · LOS txn id</text>
+<rect x="470" y="410" width="230" height="76" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="585.0" y="446.5" font-size="14" font-weight="700" fill="#2E75B6" text-anchor="middle">Payment Pending</text>
+<text x="585.0" y="463.5" font-size="11" fill="#5A6675" text-anchor="middle">Mode B · PG success</text>
+<rect x="760" y="355" width="230" height="76" rx="9" fill="#F0E9F8" stroke="#6A4C93" stroke-width="2"/>
+<text x="875.0" y="391.5" font-size="15" font-weight="700" fill="#6A4C93" text-anchor="middle">Policy in Issuance</text>
+<text x="875.0" y="409.5" font-size="12" fill="#5A6675" text-anchor="middle">COI per insurer</text>
+<rect x="760" y="475" width="230" height="76" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="875.0" y="511.5" font-size="16" font-weight="700" fill="#2E8B57" text-anchor="middle">Policy Issued</text>
+<text x="875.0" y="530.5" font-size="13" fill="#5A6675" text-anchor="middle">terminal</text>
+<rect x="470" y="590" width="230" height="70" rx="9" fill="#F4F7FB" stroke="#9AA9BC" stroke-width="2"/>
+<text x="585.0" y="623.5" font-size="14" font-weight="700" fill="#9AA9BC" text-anchor="middle">Cancelled</text>
+<text x="585.0" y="640.5" font-size="11" fill="#5A6675" text-anchor="middle">customer / system / insurer</text>
+<rect x="760" y="590" width="230" height="70" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="875.0" y="623.5" font-size="14" font-weight="700" fill="#B0413E" text-anchor="middle">Failed</text>
+<text x="875.0" y="640.5" font-size="11" fill="#5A6675" text-anchor="middle">LOS / insurer / PG</text>
+<text x="600" y="38" font-size="20" font-weight="700"  fill="#1F4E79" text-anchor="middle">Case State Machine</text>
+<text x="600" y="64.0" font-size="12.5" font-weight="400"  fill="#6B7785" text-anchor="middle">deterministic states · event-driven transitions · parent-first partial issuance</text>
+<text x="885" y="690.0" font-size="11.5" font-weight="400" font-style="italic" fill="#B0413E" text-anchor="middle">Failed → retry returns to prior state · manual close → Cancelled</text>
+</svg>

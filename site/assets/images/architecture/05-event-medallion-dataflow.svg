@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="820" viewBox="0 0 1240 820" font-family="Lato, Helvetica, Arial, sans-serif">
+<rect width="1240" height="820" fill="#FFFFFF"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 z" fill="#33475B"/></marker><marker id="arrowS" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M9,0 L0,3 L9,6 z" fill="#33475B"/></marker></defs>
+<rect x="60" y="430" width="1120" height="250" rx="14" fill="#F1F8F4" stroke="#BFE0CC" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="76" y="453" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Medallion data platform</text>
+<path d="M 245.0,162.4 L 470.1,215.0" fill="none" stroke="#B8860B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 435.3,174.0 L 534.9,215.0" fill="none" stroke="#B8860B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 576.0,174.0 L 599.7,215.0" fill="none" stroke="#B8860B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 716.8,174.0 L 664.6,215.0" fill="none" stroke="#B8860B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 461.3,285.0 L 245.0,332.7" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 529.9,285.0 L 439.9,320.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 598.6,285.0 L 577.1,320.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 667.2,285.0 L 714.4,320.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 280.0,525.0 L 298.0,525.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 498.0,525.0 L 516.0,525.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 716.0,525.0 L 734.0,525.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 934.0,525.0 L 952.0,525.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 670.0,378.2 L 280.0,495.0" fill="none" stroke="#2E8B57" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 180.0,600.0 L 180.0,570.0" fill="none" stroke="#2E8B57" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 934.0,567.7 L 1009.7,600.0" fill="none" stroke="#6A4C93" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="70" y="110" width="175" height="64" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="157.5" y="147.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Journey orch</text>
+<rect x="270" y="110" width="175" height="64" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="357.5" y="147.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Consent svc</text>
+<rect x="470" y="110" width="175" height="64" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="557.5" y="147.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Payment svc</text>
+<rect x="670" y="110" width="175" height="64" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="757.5" y="147.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Insurer adapters</text>
+<rect x="360" y="215" width="520" height="70" rx="9" fill="#FFF6E0" stroke="#B8860B" stroke-width="2"/>
+<text x="620.0" y="255.5" font-size="14" font-weight="700" fill="#B8860B" text-anchor="middle">Event backbone — schema registry · async queue (at-least-once)</text>
+<rect x="70" y="320" width="175" height="64" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="157.5" y="357.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">State projector</text>
+<rect x="270" y="320" width="175" height="64" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="357.5" y="357.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Notification svc</text>
+<rect x="470" y="320" width="175" height="64" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="557.5" y="357.0" font-size="13" font-weight="700" fill="#B0413E" text-anchor="middle">Audit log</text>
+<rect x="670" y="320" width="175" height="64" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="757.5" y="357.0" font-size="13" font-weight="700" fill="#2E8B57" text-anchor="middle">CDC → Landing</text>
+<rect x="80" y="480" width="200" height="90" rx="9" fill="#F4F7FB" stroke="#9AA9BC" stroke-width="2"/>
+<text x="180.0" y="516.0" font-size="15" font-weight="700" fill="#9AA9BC" text-anchor="middle">Landing</text>
+<text x="180.0" y="534.0" font-size="12" fill="#5A6675" text-anchor="middle">raw events · LOS/insurer</text>
+<text x="180.0" y="549.0" font-size="12" fill="#5A6675" text-anchor="middle">payloads</text>
+<rect x="298" y="480" width="200" height="90" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="398.0" y="523.5" font-size="15" font-weight="700" fill="#1F4E79" text-anchor="middle">Bronze</text>
+<text x="398.0" y="541.5" font-size="12" fill="#5A6675" text-anchor="middle">typed · validated</text>
+<rect x="516" y="480" width="200" height="90" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="616.0" y="523.5" font-size="15" font-weight="700" fill="#2E75B6" text-anchor="middle">Silver</text>
+<text x="616.0" y="541.5" font-size="12" fill="#5A6675" text-anchor="middle">conformed · joined</text>
+<rect x="734" y="480" width="200" height="90" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="834.0" y="523.5" font-size="15" font-weight="700" fill="#2E8B57" text-anchor="middle">Gold</text>
+<text x="834.0" y="541.5" font-size="12" fill="#5A6675" text-anchor="middle">marts · funnel · MIS</text>
+<rect x="952" y="480" width="200" height="90" rx="9" fill="#F0E9F8" stroke="#6A4C93" stroke-width="2"/>
+<text x="1052.0" y="523.5" font-size="15" font-weight="700" fill="#6A4C93" text-anchor="middle">Proactive intelligence</text>
+<text x="1052.0" y="541.5" font-size="12" fill="#5A6675" text-anchor="middle">signals · nudges · risk</text>
+<rect x="80" y="600" width="200" height="60" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="180.0" y="628.5" font-size="12" font-weight="700" fill="#2E8B57" text-anchor="middle">Transactional DB</text>
+<text x="180.0" y="643.5" font-size="9" fill="#5A6675" text-anchor="middle">CDC source</text>
+<rect x="980" y="600" width="200" height="60" rx="9" fill="#F0E9F8" stroke="#6A4C93" stroke-width="2"/>
+<text x="1080.0" y="628.5" font-size="12" font-weight="700" fill="#6A4C93" text-anchor="middle">Reporting / BI</text>
+<text x="1080.0" y="643.5" font-size="9" fill="#5A6675" text-anchor="middle">Tableau · MIS</text>
+<text x="620" y="38" font-size="20" font-weight="700"  fill="#1F4E79" text-anchor="middle">Event-Driven Backbone + Medallion Data Strategy</text>
+<text x="620" y="64.0" font-size="12.5" font-weight="400"  fill="#6B7785" text-anchor="middle">schema-contract domain events · stateless consumers · landing → bronze → silver → gold → intelligence</text>
+</svg>

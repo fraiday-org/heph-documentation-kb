@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="1390" viewBox="0 0 1260 1390" font-family="Lato, Helvetica, Arial, sans-serif">
+<rect width="1260" height="1390" fill="#FFFFFF"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 z" fill="#33475B"/></marker><marker id="arrowS" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M9,0 L0,3 L9,6 z" fill="#33475B"/></marker></defs>
+<path d="M 230.0,185.9 L 300.0,186.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,187.0 L 740.0,186.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,185.0 L 1050.0,185.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,228.0 L 490.0,268.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,303.9 L 300.0,304.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,305.0 L 740.0,304.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,303.0 L 1050.0,303.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,346.0 L 490.0,386.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,421.9 L 300.0,422.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,423.0 L 740.0,422.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,421.0 L 1050.0,421.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,464.0 L 490.0,504.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,539.9 L 300.0,540.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,541.0 L 740.0,540.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,539.0 L 1050.0,539.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,582.0 L 490.0,622.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,657.9 L 300.0,658.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,659.0 L 740.0,658.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,657.0 L 1050.0,657.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,700.0 L 490.0,740.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,775.9 L 300.0,776.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,777.0 L 740.0,776.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,775.0 L 1050.0,775.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,818.0 L 490.0,858.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,893.9 L 300.0,894.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,895.0 L 740.0,894.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,893.0 L 1050.0,893.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,936.0 L 490.0,976.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,1011.9 L 300.0,1012.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,1013.0 L 740.0,1012.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,1011.0 L 1050.0,1011.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,1054.0 L 490.0,1094.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,1129.9 L 300.0,1130.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,1131.0 L 740.0,1130.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,1129.0 L 1050.0,1129.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 490.0,1172.0 L 490.0,1212.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 230.0,1247.9 L 300.0,1248.8" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 680.0,1249.0 L 740.0,1248.4" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1010.0,1247.0 L 1050.0,1247.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="70" y="150" width="160" height="70" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="150.0" y="189.5" font-size="12" font-weight="700" fill="#C77D2E" text-anchor="middle">RM</text>
+<rect x="300" y="150" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="187.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">1 · Entry / login</text>
+<text x="490.0" y="204.5" font-size="11" fill="#5A6675" text-anchor="middle">RM opens branded portal, enters LAN</text>
+<rect x="740" y="150" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="189.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Lender SSO · LOS validate</text>
+<rect x="1050" y="150" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="189.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Initiated</text>
+<rect x="70" y="268" width="160" height="70" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="150.0" y="307.5" font-size="12" font-weight="700" fill="#1F4E79" text-anchor="middle">System</text>
+<rect x="300" y="268" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="305.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">2 · Loan data</text>
+<text x="490.0" y="322.5" font-size="11" fill="#5A6675" text-anchor="middle">Borrower + loan hydrated, read-only</text>
+<rect x="740" y="268" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="307.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">LOS loan contract</text>
+<rect x="1050" y="268" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="307.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Loan Data Fetched</text>
+<rect x="70" y="386" width="160" height="70" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="150.0" y="425.5" font-size="12" font-weight="700" fill="#C77D2E" text-anchor="middle">RM</text>
+<rect x="300" y="386" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="423.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">3 · Insured person</text>
+<text x="490.0" y="440.5" font-size="11" fill="#5A6675" text-anchor="middle">Borrower / co-borrower selected</text>
+<rect x="740" y="386" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="425.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Case store</text>
+<rect x="1050" y="386" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="425.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Loan Data Fetched</text>
+<rect x="70" y="504" width="160" height="70" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="150.0" y="543.5" font-size="12" font-weight="700" fill="#C77D2E" text-anchor="middle">RM</text>
+<rect x="300" y="504" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="541.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">4 · Product (suitability)</text>
+<text x="490.0" y="558.5" font-size="11" fill="#5A6675" text-anchor="middle">Pick one lead product from cards</text>
+<rect x="740" y="504" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="543.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Catalogue · suitability rules</text>
+<rect x="1050" y="504" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="543.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Suitability Selected</text>
+<rect x="70" y="622" width="160" height="70" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="150.0" y="661.5" font-size="12" font-weight="700" fill="#C77D2E" text-anchor="middle">RM</text>
+<rect x="300" y="622" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="659.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">5 · Quote</text>
+<text x="490.0" y="676.5" font-size="11" fill="#5A6675" text-anchor="middle">Live multi-insurer compare + cart</text>
+<rect x="740" y="622" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="661.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Insurer quote APIs</text>
+<rect x="1050" y="622" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="661.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Quote Generated</text>
+<rect x="70" y="740" width="160" height="70" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="150.0" y="779.5" font-size="12" font-weight="700" fill="#C77D2E" text-anchor="middle">RM</text>
+<rect x="300" y="740" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="777.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">6 · Cart</text>
+<text x="490.0" y="794.5" font-size="11" fill="#5A6675" text-anchor="middle">Premium breakdown, payment mode</text>
+<rect x="740" y="740" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="779.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Pricing · LOS premium write</text>
+<rect x="1050" y="740" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="779.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Quote Generated</text>
+<rect x="70" y="858" width="160" height="70" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="150.0" y="897.5" font-size="12" font-weight="700" fill="#C77D2E" text-anchor="middle">RM</text>
+<rect x="300" y="858" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="895.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">7 · Proposal</text>
+<text x="490.0" y="912.5" font-size="11" fill="#5A6675" text-anchor="middle">Pre-filled applicant + nominee</text>
+<rect x="740" y="858" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="897.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Proposal API · PII vault</text>
+<rect x="1050" y="858" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="897.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Proposal in Progress</text>
+<rect x="70" y="976" width="160" height="70" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="150.0" y="1015.5" font-size="12" font-weight="700" fill="#C77D2E" text-anchor="middle">RM / Customer</text>
+<rect x="300" y="976" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="1013.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">8 · Health declaration</text>
+<text x="490.0" y="1030.5" font-size="11" fill="#5A6675" text-anchor="middle">Per-insurer questionnaire (A/B)</text>
+<rect x="740" y="976" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="1015.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Insurer UW · secure link</text>
+<rect x="1050" y="976" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="1015.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Medical in Progress</text>
+<rect x="70" y="1094" width="160" height="70" rx="9" fill="#EAF6F6" stroke="#2C7A7B" stroke-width="2"/>
+<text x="150.0" y="1133.5" font-size="12" font-weight="700" fill="#2C7A7B" text-anchor="middle">Customer</text>
+<rect x="300" y="1094" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="1131.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">9 · Consent (OTP)</text>
+<text x="490.0" y="1148.5" font-size="11" fill="#5A6675" text-anchor="middle">Per-product OTP, parent-first</text>
+<rect x="740" y="1094" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="1133.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Consent svc · OTP</text>
+<rect x="1050" y="1094" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="1133.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Awaiting Consent</text>
+<rect x="70" y="1212" width="160" height="70" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="150.0" y="1251.5" font-size="12" font-weight="700" fill="#1F4E79" text-anchor="middle">System</text>
+<rect x="300" y="1212" width="380" height="78" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="490.0" y="1249.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">10 · Disburse / pay → issue</text>
+<text x="490.0" y="1266.5" font-size="11" fill="#5A6675" text-anchor="middle">Disbursement or PG, COI issued</text>
+<rect x="740" y="1212" width="270" height="70" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="875.0" y="1251.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">LOS / PG · insurer COI</text>
+<rect x="1050" y="1212" width="180" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1140.0" y="1251.0" font-size="11" font-weight="700" fill="#2E8B57" text-anchor="middle">Policy Issued</text>
+<text x="630" y="40" font-size="20" font-weight="700"  fill="#1F4E79" text-anchor="middle">RM Journey — End to End · Product ⇄ Engineering Handoff</text>
+<text x="630" y="68.0" font-size="12.5" font-weight="400"  fill="#6B7785" text-anchor="middle">every step: who acts · what happens · systems &amp; contracts touched · resulting case state</text>
+<text x="150" y="118" font-size="12" font-weight="700"  fill="#1F4E79" text-anchor="middle">ACTOR</text>
+<text x="490" y="118" font-size="12" font-weight="700"  fill="#1F4E79" text-anchor="middle">JOURNEY STEP</text>
+<text x="870" y="118" font-size="12" font-weight="700"  fill="#1F4E79" text-anchor="middle">SYSTEMS &amp; CONTRACTS</text>
+<text x="1140" y="118" font-size="12" font-weight="700"  fill="#1F4E79" text-anchor="middle">CASE STATE</text>
+</svg>

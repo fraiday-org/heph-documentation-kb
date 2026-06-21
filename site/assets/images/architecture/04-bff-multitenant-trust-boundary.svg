@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="720" viewBox="0 0 1240 720" font-family="Lato, Helvetica, Arial, sans-serif">
+<rect width="1240" height="720" fill="#FFFFFF"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 z" fill="#33475B"/></marker><marker id="arrowS" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M9,0 L0,3 L9,6 z" fill="#33475B"/></marker></defs>
+<rect x="40" y="110" width="250" height="470" rx="14" fill="#F6F8FB" stroke="#D5DEE9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="56" y="133" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Public edge</text>
+<rect x="310" y="110" width="300" height="470" rx="14" fill="#FCF6EE" stroke="#D9B27C" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="326" y="133" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">BFF / DMZ — per-tenant session</text>
+<rect x="630" y="110" width="320" height="470" rx="14" fill="#F7FAFE" stroke="#C9D6E3" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="646" y="133" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Private core (mTLS)</text>
+<rect x="970" y="110" width="230" height="470" rx="14" fill="#F1F8F4" stroke="#BFE0CC" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="986" y="133" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Data &amp; secrets</text>
+<path d="M 260.0,221.1 L 340.0,234.7" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="279.0" y="217.9" width="42.0" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="300.0" y="230.9" font-size="11.5" fill="#33475B" text-anchor="middle">HTTPS</text>
+<path d="M 260.0,324.5 L 340.0,296.7" fill="none" stroke="#33475B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 215.2,450.0 L 391.0,310.0" fill="none" stroke="#33475B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="269.3" y="370.0" width="67.6" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="303.1" y="383.0" font-size="11.5" fill="#33475B" text-anchor="middle">OIDC code</text>
+<path d="M 460.0,310.0 L 460.0,360.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 460.0,440.0 L 460.0,470.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 499.6,470.0 L 758.3,225.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="585.6" y="337.5" width="86.8" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="629.0" y="350.5" font-size="11.5" fill="#33475B" text-anchor="middle">signed token</text>
+<path d="M 790.0,225.0 L 790.0,250.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 765.6,310.0 L 749.4,330.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 814.4,310.0 L 830.6,330.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 777.8,310.0 L 737.2,410.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 802.2,310.0 L 842.8,410.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 790.0,310.0 L 790.0,495.0" fill="none" stroke="#33475B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 915.0,345.8 L 995.0,326.9" fill="none" stroke="#B0413E" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 901.6,250.0 L 995.0,224.9" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 915.0,520.8 L 995.0,518.1" fill="none" stroke="#33475B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="70" y="165" width="190" height="80" rx="9" fill="#FDF0E3" stroke="#C77D2E" stroke-width="2"/>
+<text x="165.0" y="203.5" font-size="15" font-weight="700" fill="#C77D2E" text-anchor="middle">RM browser</text>
+<text x="165.0" y="221.5" font-size="12" fill="#5A6675" text-anchor="middle">cookie · no tokens in JS</text>
+<rect x="70" y="320" width="190" height="75" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="165.0" y="356.0" font-size="14" font-weight="700" fill="#6B7785" text-anchor="middle">CDN · WAF</text>
+<text x="165.0" y="373.0" font-size="11" fill="#5A6675" text-anchor="middle">TLS · rate limit · WAF</text>
+<rect x="70" y="450" width="190" height="80" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="165.0" y="488.5" font-size="14" font-weight="700" fill="#6B7785" text-anchor="middle">Lender IdP</text>
+<text x="165.0" y="505.5" font-size="11" fill="#5A6675" text-anchor="middle">OIDC authorize</text>
+<rect x="340" y="200" width="240" height="110" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="460.0" y="237.5" font-size="16" font-weight="700" fill="#2E75B6" text-anchor="middle">BFF middleware</text>
+<text x="460.0" y="256.5" font-size="13" fill="#5A6675" text-anchor="middle">tenant resolve · OIDC code exch</text>
+<text x="460.0" y="272.5" font-size="13" fill="#5A6675" text-anchor="middle">· httpOnly session · CSRF ·</text>
+<text x="460.0" y="288.5" font-size="13" fill="#5A6675" text-anchor="middle">token mint</text>
+<rect x="340" y="360" width="240" height="80" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="460.0" y="398.5" font-size="14" font-weight="700" fill="#B0413E" text-anchor="middle">Policy / RBAC gate</text>
+<text x="460.0" y="415.5" font-size="11" fill="#5A6675" text-anchor="middle">scope · role · tenant claim</text>
+<rect x="340" y="470" width="240" height="75" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="460.0" y="506.0" font-size="14" font-weight="700" fill="#2E75B6" text-anchor="middle">Aggregation / BFF API</text>
+<text x="460.0" y="523.0" font-size="11" fill="#5A6675" text-anchor="middle">screen-shaped responses</text>
+<rect x="665" y="165" width="250" height="60" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="790.0" y="193.5" font-size="14" font-weight="700" fill="#1F4E79" text-anchor="middle">API gateway</text>
+<text x="790.0" y="210.5" font-size="11" fill="#5A6675" text-anchor="middle">mTLS · authZ</text>
+<rect x="665" y="250" width="250" height="60" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="790.0" y="285.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Journey orchestrator</text>
+<rect x="665" y="330" width="120" height="60" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="725.0" y="364.5" font-size="12" font-weight="700" fill="#1F4E79" text-anchor="middle">Catalogue</text>
+<rect x="795" y="330" width="120" height="60" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="855.0" y="364.5" font-size="12" font-weight="700" fill="#1F4E79" text-anchor="middle">Consent</text>
+<rect x="665" y="410" width="120" height="60" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="725.0" y="444.5" font-size="12" font-weight="700" fill="#1F4E79" text-anchor="middle">Payments</text>
+<rect x="795" y="410" width="120" height="60" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="855.0" y="444.5" font-size="12" font-weight="700" fill="#1F4E79" text-anchor="middle">Insurer adapt</text>
+<rect x="665" y="495" width="250" height="60" rx="9" fill="#FFF6E0" stroke="#B8860B" stroke-width="2"/>
+<text x="790.0" y="523.5" font-size="13" font-weight="700" fill="#B8860B" text-anchor="middle">Event backbone</text>
+<text x="790.0" y="539.5" font-size="10" fill="#5A6675" text-anchor="middle">async domain events</text>
+<rect x="995" y="165" width="185" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1087.5" y="198.5" font-size="13" font-weight="700" fill="#2E8B57" text-anchor="middle">Transactional DB</text>
+<text x="1087.5" y="214.5" font-size="10" fill="#5A6675" text-anchor="middle">row-level tenant</text>
+<rect x="995" y="270" width="185" height="70" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="1087.5" y="303.5" font-size="13" font-weight="700" fill="#B0413E" text-anchor="middle">PII vault / KMS</text>
+<text x="1087.5" y="319.5" font-size="10" fill="#5A6675" text-anchor="middle">field encryption</text>
+<rect x="995" y="375" width="185" height="70" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="1087.5" y="415.0" font-size="13" font-weight="700" fill="#B0413E" text-anchor="middle">Secrets manager</text>
+<rect x="995" y="480" width="185" height="70" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1087.5" y="513.5" font-size="13" font-weight="700" fill="#2E8B57" text-anchor="middle">Data lake</text>
+<text x="1087.5" y="529.5" font-size="10" fill="#5A6675" text-anchor="middle">medallion</text>
+<text x="620" y="38" font-size="20" font-weight="700"  fill="#1F4E79" text-anchor="middle">Multi-Tenant BFF Auth Trust Boundary</text>
+<text x="620" y="64.0" font-size="12.5" font-weight="400"  fill="#6B7785" text-anchor="middle">tenant resolved on login · BFF holds the session · short-lived tokens cross each boundary</text>
+</svg>

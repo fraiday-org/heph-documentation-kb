@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="660" viewBox="0 0 1260 660" font-family="Lato, Helvetica, Arial, sans-serif">
+<rect width="1260" height="660" fill="#FFFFFF"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 z" fill="#33475B"/></marker><marker id="arrowS" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M9,0 L0,3 L9,6 z" fill="#33475B"/></marker></defs>
+<rect x="290" y="95" width="920" height="480" rx="14" fill="#F7FAFE" stroke="#C9D6E3" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="306" y="118" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Multi-AZ VPC (centralised across NBFC × insurers)</text>
+<rect x="305" y="145" width="165" height="350" rx="14" fill="#F6F8FB" stroke="#D5DEE9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="321" y="168" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Public edge</text>
+<rect x="485" y="145" width="165" height="350" rx="14" fill="#FCF6EE" stroke="#D9B27C" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="501" y="168" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">BFF / DMZ</text>
+<rect x="665" y="145" width="205" height="350" rx="14" fill="#F6F8FB" stroke="#D5DEE9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="681" y="168" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Private core (mTLS)</text>
+<rect x="885" y="145" width="310" height="350" rx="14" fill="#F1F8F4" stroke="#BFE0CC" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="901" y="168" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Data &amp; secrets</text>
+<path d="M 240.0,135.1 L 678.0,193.9" fill="none" stroke="#6B7785" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="434.8" y="154.5" width="48.4" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="459.0" y="167.5" font-size="11.5" fill="#6B7785" text-anchor="middle">deploy</text>
+<path d="M 240.0,229.4 L 498.0,222.0" fill="none" stroke="#33475B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="351.2" y="215.7" width="35.6" height="18" rx="4" fill="#FFFFFF" opacity="0.92"/>
+<text x="369.0" y="228.7" font-size="11.5" fill="#33475B" text-anchor="middle">OIDC</text>
+<path d="M 240.0,325.6 L 678.0,294.4" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" marker-start="url(#arrowS)"/>
+<path d="M 240.0,411.0 L 678.0,309.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" marker-start="url(#arrowS)"/>
+<path d="M 452.6,270.0 L 498.0,250.3" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 638.0,215.1 L 678.0,212.3" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 768.0,232.0 L 768.0,255.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 858.0,261.6 L 945.1,236.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 858.0,283.7 L 898.0,281.8" fill="none" stroke="#B0413E" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 768.0,321.0 L 768.0,345.0" fill="none" stroke="#B8860B" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 858.0,379.6 L 898.0,383.4" fill="none" stroke="#2E8B57" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="60" y="95" width="180" height="56" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="150.0" y="127.5" font-size="12" font-weight="700" fill="#2E75B6" text-anchor="middle">CI/CD · IaC pipeline</text>
+<rect x="60" y="200" width="180" height="64" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="150.0" y="237.0" font-size="13" font-weight="700" fill="#6B7785" text-anchor="middle">Lender IdP / LOS</text>
+<rect x="60" y="300" width="180" height="64" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="150.0" y="337.0" font-size="13" font-weight="700" fill="#6B7785" text-anchor="middle">Insurer APIs</text>
+<rect x="60" y="400" width="180" height="64" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="150.0" y="437.0" font-size="13" font-weight="700" fill="#6B7785" text-anchor="middle">Payment gateway</text>
+<rect x="318" y="185" width="140" height="56" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="388.0" y="217.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">CDN · WAF</text>
+<rect x="318" y="270" width="140" height="56" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="388.0" y="302.5" font-size="12" font-weight="700" fill="#6B7785" text-anchor="middle">Load balancer</text>
+<rect x="498" y="185" width="140" height="70" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="568.0" y="218.5" font-size="13" font-weight="700" fill="#2E75B6" text-anchor="middle">BFF</text>
+<text x="568.0" y="234.5" font-size="10" fill="#5A6675" text-anchor="middle">autoscaled · stateless</text>
+<rect x="498" y="300" width="140" height="56" rx="9" fill="#F4F7FB" stroke="#9AA9BC" stroke-width="2"/>
+<text x="568.0" y="332.5" font-size="12" font-weight="700" fill="#9AA9BC" text-anchor="middle">Session store</text>
+<rect x="678" y="180" width="180" height="52" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="768.0" y="211.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">API gateway</text>
+<rect x="678" y="255" width="180" height="66" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="768.0" y="286.5" font-size="12" font-weight="700" fill="#1F4E79" text-anchor="middle">Capability services</text>
+<text x="768.0" y="301.5" font-size="9" fill="#5A6675" text-anchor="middle">containers · autoscaled</text>
+<rect x="678" y="345" width="180" height="52" rx="9" fill="#FFF6E0" stroke="#B8860B" stroke-width="2"/>
+<text x="768.0" y="375.5" font-size="12" font-weight="700" fill="#B8860B" text-anchor="middle">Event backbone</text>
+<rect x="898" y="180" width="285" height="56" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1040.5" y="206.5" font-size="13" font-weight="700" fill="#2E8B57" text-anchor="middle">Transactional DB</text>
+<text x="1040.5" y="222.5" font-size="10" fill="#5A6675" text-anchor="middle">multi-AZ · row-level tenant</text>
+<rect x="898" y="250" width="285" height="50" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="1040.5" y="279.5" font-size="12" font-weight="700" fill="#B0413E" text-anchor="middle">PII vault · KMS</text>
+<rect x="898" y="312" width="285" height="48" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="1040.5" y="340.5" font-size="12" font-weight="700" fill="#B0413E" text-anchor="middle">Secrets manager</text>
+<rect x="898" y="372" width="285" height="50" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="1040.5" y="401.5" font-size="12" font-weight="700" fill="#2E8B57" text-anchor="middle">Object store · data lake</text>
+<rect x="318" y="510" width="875" height="50" rx="9" fill="#F0E9F8" stroke="#6A4C93" stroke-width="2"/>
+<text x="755.5" y="540.0" font-size="13" font-weight="700" fill="#6A4C93" text-anchor="middle">Observability backbone — traces · metrics · logs (per-tenant · correlation id)</text>
+<text x="630" y="36" font-size="20" font-weight="700"  fill="#1F4E79" text-anchor="middle">Infra-Core Topology — Centralised, Multi-AZ, IaC-Defined</text>
+<text x="630" y="61.0" font-size="12.5" font-weight="400"  fill="#6B7785" text-anchor="middle">tiered VPC mirroring the trust boundary · managed substrates · observability threaded end to end</text>
+</svg>

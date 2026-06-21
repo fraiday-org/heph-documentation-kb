@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="760" viewBox="0 0 1260 760" font-family="Lato, Helvetica, Arial, sans-serif">
+<rect width="1260" height="760" fill="#FFFFFF"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 z" fill="#33475B"/></marker><marker id="arrowS" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M9,0 L0,3 L9,6 z" fill="#33475B"/></marker></defs>
+<rect x="50" y="100" width="1160" height="270" rx="14" fill="#FCF6EE" stroke="#D9B27C" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="66" y="123" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Mode A · bank-funded — premium settled via LOS disbursement</text>
+<rect x="50" y="400" width="1160" height="290" rx="14" fill="#F7FAFE" stroke="#C9D6E3" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="66" y="423" font-size="15" font-weight="700" fill="#1F4E79" letter-spacing="0.3">Mode B · customer-paid — premium settled via payment gateway</text>
+<path d="M 238.0,220.0 L 262.0,220.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 430.0,220.0 L 454.0,220.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 622.0,220.0 L 646.0,220.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 814.0,220.0 L 838.0,220.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1006.0,220.0 L 1030.0,220.0" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 238.0,527.5 L 262.0,527.5" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 430.0,527.5 L 454.0,527.5" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 622.0,527.5 L 646.0,527.5" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 814.0,527.5 L 838.0,527.5" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 1006.0,527.5 L 1030.0,527.5" fill="none" stroke="#33475B" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 430.0,562.7 L 590.4,630.0" fill="none" stroke="#6B7785" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<path d="M 703.3,630.0 L 838.0,566.9" fill="none" stroke="#6B7785" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+<rect x="70" y="175" width="168" height="90" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="154.0" y="218.5" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Cart total</text>
+<text x="154.0" y="234.5" font-size="10" fill="#5A6675" text-anchor="middle">base+GST</text>
+<rect x="262" y="175" width="168" height="90" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="346.0" y="210.5" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Proceed to</text>
+<text x="346.0" y="226.5" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">application</text>
+<text x="346.0" y="242.5" font-size="10" fill="#5A6675" text-anchor="middle">RM confirms</text>
+<rect x="454" y="175" width="168" height="90" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="538.0" y="218.5" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">BFF → LOS premium</text>
+<text x="538.0" y="234.5" font-size="10" fill="#5A6675" text-anchor="middle">charge code / reduce payout</text>
+<rect x="646" y="175" width="168" height="90" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="730.0" y="218.5" font-size="13" font-weight="700" fill="#6B7785" text-anchor="middle">Loan disbursed</text>
+<text x="730.0" y="234.5" font-size="10" fill="#5A6675" text-anchor="middle">LOS webhook · txn id</text>
+<rect x="838" y="175" width="168" height="90" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="922.0" y="218.5" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Issue policies</text>
+<text x="922.0" y="234.5" font-size="10" fill="#5A6675" text-anchor="middle">parent-first</text>
+<rect x="1030" y="175" width="168" height="90" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="1114.0" y="218.5" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">COI receipt</text>
+<text x="1114.0" y="234.5" font-size="10" fill="#5A6675" text-anchor="middle">write-back to LOS</text>
+<rect x="70" y="480" width="168" height="95" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="154.0" y="526.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Cart total</text>
+<text x="154.0" y="542.0" font-size="10" fill="#5A6675" text-anchor="middle">base+GST</text>
+<rect x="262" y="480" width="168" height="95" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="346.0" y="526.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Create payment intent</text>
+<text x="346.0" y="542.0" font-size="10" fill="#5A6675" text-anchor="middle">PG order · idempotency key</text>
+<rect x="454" y="480" width="168" height="95" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="538.0" y="526.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Pay link to customer</text>
+<text x="538.0" y="542.0" font-size="10" fill="#5A6675" text-anchor="middle">SMS · TTL</text>
+<rect x="646" y="480" width="168" height="95" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="730.0" y="526.0" font-size="13" font-weight="700" fill="#6B7785" text-anchor="middle">Customer pays</text>
+<text x="730.0" y="542.0" font-size="10" fill="#5A6675" text-anchor="middle">UPI / card / netbanking</text>
+<rect x="838" y="480" width="168" height="95" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="922.0" y="526.0" font-size="13" font-weight="700" fill="#6B7785" text-anchor="middle">PG success callback</text>
+<text x="922.0" y="542.0" font-size="10" fill="#5A6675" text-anchor="middle">verify signature</text>
+<rect x="1030" y="480" width="168" height="95" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="1114.0" y="526.0" font-size="13" font-weight="700" fill="#1F4E79" text-anchor="middle">Issue policies + COI</text>
+<text x="1114.0" y="542.0" font-size="10" fill="#5A6675" text-anchor="middle">receipt persisted</text>
+<rect x="540" y="630" width="220" height="50" rx="9" fill="#FFFFFF" stroke="#6B7785" stroke-width="2"/>
+<text x="650.0" y="660.0" font-size="13" font-weight="700" fill="#6B7785" text-anchor="middle">Payment gateway</text>
+<text x="630" y="38" font-size="20" font-weight="700"  fill="#1F4E79" text-anchor="middle">Payment Establishment &amp; Receipt Journey</text>
+<text x="630" y="64.0" font-size="12.5" font-weight="400"  fill="#6B7785" text-anchor="middle">Mode A — bank-funded (LOS charge code) · Mode B — customer-paid (payment gateway) · idempotent receipts</text>
+</svg>

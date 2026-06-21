@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="Lato, Helvetica, Arial, sans-serif">
+<rect width="1200" height="760" fill="#FFFFFF"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,3 L0,6 z" fill="#33475B"/></marker><marker id="arrowS" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M9,0 L0,3 L9,6 z" fill="#33475B"/></marker></defs>
+<rect x="910" y="110" width="220" height="576" rx="14" fill="#FBEFF1" stroke="#E3B7BD" stroke-width="1.5" stroke-dasharray="6 5"/>
+<path d="M 470.0,228.0 L 470.0,214.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 470.0,346.0 L 470.0,332.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 470.0,464.0 L 470.0,450.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<path d="M 470.0,582.0 L 470.0,568.0" fill="none" stroke="#9AA9BC" stroke-width="2"  marker-end="url(#arrow)" />
+<rect x="70" y="110" width="800" height="104" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="470.0" y="160.5" font-size="16" font-weight="700" fill="#1F4E79" text-anchor="middle">Tenancy &amp; identity plane</text>
+<text x="470.0" y="179.5" font-size="13" fill="#5A6675" text-anchor="middle">tenant resolution · white-label · RBAC · SSO · per-tenant config</text>
+<rect x="70" y="228" width="800" height="104" rx="9" fill="#DCEBFA" stroke="#2E75B6" stroke-width="2"/>
+<text x="470.0" y="278.5" font-size="16" font-weight="700" fill="#2E75B6" text-anchor="middle">Capabilities plane</text>
+<text x="470.0" y="297.5" font-size="13" fill="#5A6675" text-anchor="middle">orchestration · catalogue · quote · proposal · consent · payments · fulfilment</text>
+<rect x="70" y="346" width="800" height="104" rx="9" fill="#E9F5EE" stroke="#2E8B57" stroke-width="2"/>
+<text x="470.0" y="396.5" font-size="16" font-weight="700" fill="#2E8B57" text-anchor="middle">Data plane</text>
+<text x="470.0" y="415.5" font-size="13" fill="#5A6675" text-anchor="middle">medallion landing→gold · event store · proactive intelligence · reporting</text>
+<rect x="70" y="464" width="800" height="104" rx="9" fill="#E7F0FB" stroke="#1F4E79" stroke-width="2"/>
+<text x="470.0" y="514.5" font-size="16" font-weight="700" fill="#1F4E79" text-anchor="middle">Foundational-capabilities plane</text>
+<text x="470.0" y="533.5" font-size="13" fill="#5A6675" text-anchor="middle">BFF · API gateway · notifications · secrets/KMS · audit · idempotency</text>
+<rect x="70" y="582" width="800" height="104" rx="9" fill="#F4F7FB" stroke="#9AA9BC" stroke-width="2"/>
+<text x="470.0" y="632.5" font-size="16" font-weight="700" fill="#9AA9BC" text-anchor="middle">Infra-core plane</text>
+<text x="470.0" y="651.5" font-size="13" fill="#5A6675" text-anchor="middle">AWS VPC · IaC · compute · networking · CI/CD · observability backbone</text>
+<rect x="930" y="140" width="180" height="150" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="1020.0" y="198.5" font-size="15" font-weight="700" fill="#B0413E" text-anchor="middle">Governance plane</text>
+<text x="1020.0" y="216.5" font-size="12" fill="#5A6675" text-anchor="middle">policy · approvals ·</text>
+<text x="1020.0" y="231.5" font-size="12" fill="#5A6675" text-anchor="middle">change mgmt · catalogue</text>
+<text x="1020.0" y="246.5" font-size="12" fill="#5A6675" text-anchor="middle">governance · SLAs</text>
+<rect x="930" y="360" width="180" height="170" rx="9" fill="#FBE9EC" stroke="#B0413E" stroke-width="2"/>
+<text x="1020.0" y="419.5" font-size="15" font-weight="700" fill="#B0413E" text-anchor="middle">Compliance &amp; trust</text>
+<text x="1020.0" y="437.5" font-size="15" font-weight="700" fill="#B0413E" text-anchor="middle">boundary</text>
+<text x="1020.0" y="455.5" font-size="12" fill="#5A6675" text-anchor="middle">PII vault · consent</text>
+<text x="1020.0" y="470.5" font-size="12" fill="#5A6675" text-anchor="middle">audit · data residency ·</text>
+<text x="1020.0" y="485.5" font-size="12" fill="#5A6675" text-anchor="middle">regulatory controls</text>
+<text x="600" y="40" font-size="20" font-weight="700"  fill="#1F4E79" text-anchor="middle">Heph Architecture Planes</text>
+<text x="600" y="66.0" font-size="12.5" font-weight="400"  fill="#6B7785" text-anchor="middle">five horizontal capability layers · two cross-cutting governance planes</text>
+<text x="1020" y="706" font-size="12" font-weight="400" font-style="italic" fill="#B0413E" text-anchor="middle">cross-cutting across every layer</text>
+</svg>

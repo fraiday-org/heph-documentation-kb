@@ -1,6 +1,7 @@
 node_modules/
 dist/
 build/
+_site/
 coverage/
 .pytest_cache/
 __pycache__/
