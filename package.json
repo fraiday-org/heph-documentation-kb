@@ -1,0 +1,12 @@
+{
+  "name": "@heph/documentation-kb",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/verify-docs.mjs",
+    "build": "node scripts/verify-docs.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

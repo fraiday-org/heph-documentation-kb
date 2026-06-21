@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+coverage/
+.pytest_cache/
+__pycache__/
+.terraform/
+*.tfstate
+*.tfstate.*
+.DS_Store
+.env
+.env.*
+!.env.example
+AGENTS.md
+CLAUDE.md
+.claude/
+.mcp.json
